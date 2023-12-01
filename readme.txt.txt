@@ -1,4 +1,4 @@
 Welcome to the "Git for beginners" MyProject!
 
-Author: Alphonse
+Author: Alphonse Olivados Woungly
 Twitter: @AlphonseWoungly
