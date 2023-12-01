@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Alphonse Woungly
+Author: Alphonse Olivados Woungly
 Twitter: @AlphonseWoungly
